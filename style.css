@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: #0000FF;
+    background-color: azure;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
